@@ -156,3 +156,4 @@ site/
 # Arquivos de demo temporários
 demo_output/
 demo_*.db
+\nDESCRICAO_DO_PROJETO.md
