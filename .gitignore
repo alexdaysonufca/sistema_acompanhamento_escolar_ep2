@@ -1,0 +1,158 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Ambiente Virtual
+.venv/
+venv/
+ENV/
+env/
+.virtualenv/
+
+# PyTest
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+coverage.xml
+*.cover
+*.log
+htmlcov/
+.hypothesis/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Sistema Operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pylint
+.pylint.d/
+pylint_report.txt
+
+# Black
+.black/
+
+# isort
+.isort.cfg.bak
+
+# Pre-commit
+.pre-commit-config.yaml.bak
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# Arquivos de configuração local
+.env
+.env.local
+*.local.py
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.old
+
+# Banco de Dados SQLite
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-wal
+*.db-shm
+school_system.db
+
+# Arquivos de dados temporários
+data/
+backup/
+*.csv.bak
+*.json.bak
+
+# Relatórios temporários/gerados
+ANALISE_TEMP_*.md
+RELATORIO_TEMP_*.md
+*_BACKUP.md
+
+# Arquivos de log da aplicação
+logs/
+*.log.*
+error.log
+debug.log
+
+# Arquivos de teste temporários
+test_output/
+test_results/
+.test_data/
+
+# Arquivos de profiling e performance
+*.prof
+*.lprof
+.profiling/
+
+# Arquivos de migração temporários
+migrations/__pycache__/
+*.pyc.tmp
+
+# VS Code - configurações específicas do usuário
+.vscode/settings.json
+.vscode/launch.json
+.vscode/*.code-snippets
+
+# Arquivos de documentação gerados
+docs/_build/
+site/
+
+# Arquivos de demo temporários
+demo_output/
+demo_*.db
