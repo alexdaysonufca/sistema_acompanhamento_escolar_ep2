@@ -72,8 +72,8 @@ etapa_2-v2/
 ├── main.py                     # Script principal de demonstração (Ponto de entrada)
 ├── DESCRICAO_DO_PROJETO.md     # Detalhes técnicos completos
 ├── src/
-│   ├── domain/Models.py        # As classes (Aluno, Professor, Nota...)
-│   ├── application/Services.py # As regras (Cálculo de média, Matrícula...)
+│   ├── domain/models.py        # As classes (Aluno, Professor, Nota...)
+│   ├── application/services.py # As regras (Cálculo de média, Matrícula...)
 │   └── infrastructure/         # Onde o SQL vive
 │       ├── database.py         # Código Python que fala com o banco
 │       └── schema.sql          # O script de criação do banco físico
