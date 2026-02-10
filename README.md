@@ -114,4 +114,4 @@ Para testar nosso sistema, siga os passos abaixo no terminal:
 - **pytest**
 
 ---
-*Este projeto foi desenvolvido com dedicação para a disciplina de Projeto Integrado da UFCA.*
+*Este projeto foi desenvolvido para a disciplina de Projeto Integrado 2 do Curso de Análise e Desenvolvimento de Sistemas da UFCA.*
